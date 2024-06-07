@@ -17,3 +17,5 @@
   - 새로고침
   - 페이지 이동
   - 브라우저를 닫고 다시 켜서 애플리케이션 재시작
+
+![return2](https://github.com/SeungEunLeee/JS-training/assets/73871536/60e6f87b-2912-49e4-b38e-484f5b960968)
