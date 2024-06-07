@@ -1,4 +1,4 @@
-# Javascript-Toggle Side Navigation
+# [Javascript] Toggle Side Navigation
 
 자바스크립트 - 토글 버튼 기능 구현
 
